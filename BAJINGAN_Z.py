@@ -115,14 +115,14 @@ def menu():
         print("\033[1;92m<======================================================>")
         print("\033[1;96m<---------------- \033[1;95m[ HELLO \033[1;92m"+nama+"\033[1;92m \033[1;95m] \033[1;96m--------------->")
         print("\033[1;92m<======================================================>")
-	print("\033[1;96m[\033[1;93m1\033[1;96m]\033[1;92mBangsat-Z\033[1;97m Clone from public friends")
-	print("\033[1;96m[\033[1;93m2\033[1;96m]\033[1;92mBangsat-Z\033[1;97m Crack from public followers")
-	print("\033[1;96m[\033[1;93m3\033[1;96m]\033[1;92mBangsat-Z\033[1;97m Multi cracking from public Id\033[1;97m [ \033[1;95mPro \033[1;97m]")
-	print("\033[1;96m[\033[1;93m4\033[1;96m]\033[1;92mBangsat-Z\033[1;97m Check crack results")
-	print("\033[1;96m[\033[1;93m5\033[1;96m]\033[1;92mBangsat-Z\033[1;97m User-agent settings \033[1;97m [ \033[1;95mPro \033[1;97m]")
-	print("\033[1;96m[\033[1;93m6\033[1;96m]\033[1;92mBangsat-Z\033[1;97m Exit\033[1;97m [ \033[1;91mRemove-Token \033[1;97m]")
+	print("\033[1;96m[\033[1;93m1\033[1;96m]\033[1;92mBajingan-Z\033[1;97m Clone from public friends")
+	print("\033[1;96m[\033[1;93m2\033[1;96m]\033[1;92mBajingan-Z\033[1;97m Crack from public followers")
+	print("\033[1;96m[\033[1;93m3\033[1;96m]\033[1;92mBajingan-Z\033[1;97m Multi cracking from public Id\033[1;97m [ \033[1;95mPro \033[1;97m]")
+	print("\033[1;96m[\033[1;93m4\033[1;96m]\033[1;92mBajingan-Z\033[1;97m Check crack results")
+	print("\033[1;96m[\033[1;93m5\033[1;96m]\033[1;92mBajingan-Z\033[1;97m User-agent settings \033[1;97m [ \033[1;95mPro \033[1;97m]")
+	print("\033[1;96m[\033[1;93m6\033[1;96m]\033[1;92mBajingan-Z\033[1;97m Exit\033[1;97m [ \033[1;91mRemove-Token \033[1;97m]")
 		
-	Bilal = raw_input("\033[1;96m[\033[1;93m+\033[1;96m]\033[1;92mBangsat-Z\033[1;97m Option  : ")
+	Bilal = raw_input("\033[1;96m[\033[1;93m+\033[1;96m]\033[1;92mBajingan-Z\033[1;97m Option  : ")
 	if Bilal =="":
 		menu()
 	elif Bilal == "1" or Bilal == "01":
@@ -136,10 +136,10 @@ def menu():
 		method()
 	elif Bilal == "4" or Bilal == "04":
 		print(" ")
-		print("\033[1;96m[\033[1;93m1\033[1;96m]\033[1;92mBangsat-Z\033[1;97m Check results RAKA_AMANDA OK")
-		print("\033[1;96m[\033[1;93m2\033[1;96m]\033[1;92mBangsat-Z\033[1;97m Check results RAKA_AMANDA CP")
+		print("\033[1;96m[\033[1;93m1\033[1;96m]\033[1;92mBajingan-Z\033[1;97m Check results RAKA_AMANDA OK")
+		print("\033[1;96m[\033[1;93m2\033[1;96m]\033[1;92mBajingan-Z\033[1;97m Check results RAKA_AMANDA CP")
 		print(" ")
-		cek = raw_input("\033[1;96m[\033[1;93m+\033[1;96m]\033[1;92mBangsat-Z\033[1;97m Option  : ")
+		cek = raw_input("\033[1;96m[\033[1;93m+\033[1;96m]\033[1;92mBajingan-Z\033[1;97m Option  : ")
 		if cek =="":
 			menu()
 		elif cek == "1":
@@ -237,10 +237,10 @@ def massal():
 
 def method():
 	print("\033[1;93m◍➤\033[1;97m Choose crack methode [ \033[1;92mRecommended B-API \033[1;97m]")
-	print("\033[1;96m[\033[1;93m1\033[1;96m]\033[1;92mBangsat-Z \033[1;97mB-API\033[1;97m [ \033[1;95mFast \033[1;97m]")
-	print("\033[1;96m[\033[1;93m2\033[1;96m]\033[1;92mBangsat-Z \033[1;97mM-Basic\033[1;97m [ \033[1;95mFast \033[1;97m]")
-	print("\033[1;96m[\033[1;93m3\033[1;96m]\033[1;92mBangsat-Z \033[1;97mFree Facebook\033[1;97m [ \033[1;95mNormal \033[1;97m]")
-	method = raw_input("\033[1;96m[\033[1;93m+\033[1;96m]\033[1;92mBangsat-Z \033[1;97mOption  : ")
+	print("\033[1;96m[\033[1;93m1\033[1;96m]\033[1;92mBajingan-Z \033[1;97mB-API\033[1;97m [ \033[1;95mFast \033[1;97m]")
+	print("\033[1;96m[\033[1;93m2\033[1;96m]\033[1;92mBajingan-Z \033[1;97mM-Basic\033[1;97m [ \033[1;95mFast \033[1;97m]")
+	print("\033[1;96m[\033[1;93m3\033[1;96m]\033[1;92mBajingan-Z \033[1;97mFree Facebook\033[1;97m [ \033[1;95mNormal \033[1;97m]")
+	method = raw_input("\033[1;96m[\033[1;93m+\033[1;96m]\033[1;92mBajingan-Z \033[1;97mOption  : ")
 	if method == "":
 		menu()
 	elif method == "1":

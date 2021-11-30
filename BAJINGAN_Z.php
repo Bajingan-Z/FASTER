@@ -4,7 +4,7 @@
 ** Obfuscator version : 1.0
 ** Description:
 ** Nothing Apalibe fb.com/PEMUDA.KALEUM
-** Github : BAJINGAN-Z
+** Github : Bajingan-Z
 _________________________________
 */
 eval (gzinflate("íÝnÓ0ǯ»§¢]©C[÷ÁÐÄL<6£X:5-l ÞarÇv>ìÄvê4/íbKº})GñÑÉùó÷ñÎ`p¹òÇËÙܷ(#qMQÄbg4EF֤

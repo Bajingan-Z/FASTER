@@ -9,7 +9,6 @@ rm -rf BAJINGAN_Z
 apt update && apt upgrade
 pkg install python -y
 apt install python2
-pkg install python3
 pip2 install bs4
 pkg install requests
 pip2 install mechanize

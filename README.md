@@ -22,7 +22,7 @@ git clone https://github.com/Bajingan-Z/GAFI_V1
 git pull
 cd GAFI_V1
 python Gafi_v1.py
-
+`````
 # TEAM GAFI
 ``````
 • UPIL

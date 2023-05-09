@@ -1,18 +1,19 @@
-# BAJINGAN_Z
+# GAFI_V1
 
 ==================
 ###  ☆ <b>RUN SCRIPT ☆
 ==================
 ````
 
-rm -rf BAJINGAN_Z
+rm -rf GAFI_V1
 apt update && apt upgrade
 pkg install python -y
-apt install python2
+git pull
 pip2 install bs4
 pkg install requests
 pip2 install mechanize
+pip2 install rich
 apt install git y
-git clone https://github.com/Bajingan-Z/BAJINGAN_Z
-cd BAJINGAN_Z
-python2 BAJINGAN_Z.py
+git clone https://github.com/Bajingan-Z/GAFI_V1
+cd GAFI_V1
+python Gafi_v1.py

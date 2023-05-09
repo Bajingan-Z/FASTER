@@ -23,3 +23,13 @@ git pull
 cd GAFI_V1
 python Gafi_v1.py
 
+# TEAM GAFI
+``````
+• UPIL
+• RAKA
+• NUGRAHA
+• YAYAN
+======================
+• LAURA
+• INDAH
+• ERLY
